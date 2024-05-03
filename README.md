@@ -1,5 +1,5 @@
 # Walmart Sales Data Analysis
-
+<img src="https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?w=730&crop=1" height="300">
 ## About
 
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized.
